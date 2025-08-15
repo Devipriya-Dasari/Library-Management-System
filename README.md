@@ -40,9 +40,15 @@ The Admin class manages the library system and provides various functionalities,
 ## Features
 
 **Add Books:** Easily add new books to the library with unique IDs.
+
 **Manage Users:** Add new users to the system for tracking borrowing activities.
+
 **Search Books:** Search for books by name using a prefix.
+
 **Borrow and Return:** Borrow books from the library and return them when done.
+
 **Track Borrowers:** Keep track of users who have borrowed books.
+
 **User Interface:** Simple UI interface for user interaction.
+
 **Streamlit UI:** Interactive and dynamic web interface.
