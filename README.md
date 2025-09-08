@@ -1,3 +1,5 @@
+<img width="1758" height="817" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/981414cf-6f19-44a2-a5ed-9a937f9a5cfa" />
+
 # **Library Management System**
 The Library Management System is a modular, Streamlit-based web application developed using Python and Object-Oriented Programming (OOP) principles. It allows you to manage books, users, and their borrowing activities through an interactive web interface.
 
